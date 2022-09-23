@@ -1,0 +1,25 @@
+#####COMANDOS TERMINAL MAC####
+Obs: A maior parte dos comandos Linux funcionam no Mac, pois o sistema é baseado em Unix
+
+#pwd - exibe o diretório atual
+
+#ls - exibe todos os arquivos e pastas no diretório atual
+
+#cd - mudar de diretório
+
+#cd .. volta um diretório
+
+# ./"NomeDoArquivo - executa um arquivo 
+
+#whoami - verificar qual usuário está logado no terminal
+
+#passwd "usuário" - alterar senha de um usuário
+
+#sudo rm -rv "caminho" - remover um arquivo ou varios arquivos do diretório especificado
+
+#top -u - exibe todos os processos que estão em execução(utilize Control + C para interromper o comando)
+
+#sudo kill -9 "PID do processo" matar um processo de programa, forçando a encerrar(o valor do PID é exibido no comando top)
+
+#clear - limpa a tela do terminal
+

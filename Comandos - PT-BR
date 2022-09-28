@@ -23,3 +23,4 @@ Obs: A maior parte dos comandos Linux funcionam no Mac, pois o sistema é basead
 
 #clear - limpa a tela do terminal
 
+# ssh adesktop@ip_da_maquina - executar comandos remotamentes no pc do colaborador 

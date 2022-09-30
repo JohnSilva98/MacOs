@@ -24,3 +24,7 @@ Obs: A maior parte dos comandos Linux funcionam no Mac, pois o sistema é basead
 #clear - limpa a tela do terminal
 
 # ssh adesktop@ip_da_maquina - executar comandos remotamentes no pc do colaborador 
+
+#software update -a -i - baixar e instalar versão atualizada do MacOs
+
+#software update --fecth-full-installer --full-installer-version 12.6 - baixar ultima versao do montrey 12.6

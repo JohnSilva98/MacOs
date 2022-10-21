@@ -28,3 +28,7 @@ Obs: A maior parte dos comandos Linux funcionam no Mac, pois o sistema é basead
 #software update -a -i - baixar e instalar versão atualizada do MacOs
 
 #software update --fecth-full-installer --full-installer-version 12.6 - baixar ultima versao do montrey 12.6
+
+#sudo fdesetup list | grep -o "^\w*\b" - listar usuarios que estão no FileVault
+
+#sudo fdesetup add -usertoadd "racf"  - adicionar user ao FileVault

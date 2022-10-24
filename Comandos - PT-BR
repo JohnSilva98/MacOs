@@ -32,3 +32,8 @@ Obs: A maior parte dos comandos Linux funcionam no Mac, pois o sistema é basead
 #sudo fdesetup list | grep -o "^\w*\b" - listar usuarios que estão no FileVault
 
 #sudo fdesetup add -usertoadd "racf"  - adicionar user ao FileVault
+
+#sudo /opt/cisco/anyconnect/bin/websecurity_uninstall.sh
+/opt/cisco/anyconnect/bin/umbrella_uninstall.sh
+/opt/cisco/anyconnect/bin/amp_uninstall.sh
+esses comandos removem os módulos antigos do cisco annyconnect, devem ser executados como root não importa a ordem
